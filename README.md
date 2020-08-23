@@ -1,7 +1,5 @@
 ### Hello 👋
 
-Welcome to my github profile!
-
 I'm Tony.. 1-part South African, 1-part Greek, 3-parts Programmer! Too many parts? 😃
 
 I love coding, when I am not coding I am thinking about coding. Some say I am obsessed with clean code... they may be right!!
