@@ -8,23 +8,19 @@ I love coding, when I am not coding I am thinking about coding. Some say I am ob
 
 ## Some of my OSS side projects:
 - [TmdbEasy](https://github.com/tonykaralis/TmdbEasy) - Simple wrapper around The Movie Database Api
-- nData - Test Data Framework.. coming soon
-- rustysharp - Compilation of years worth of extension methods and helper classes.. coming soon
 
 ## Some bits about me:
 * 🌱 I'm constantly learning everyday.
 * 🚴 I'm crazy about mountain biking and enjoy hiking with my fiancée (The Lakes are our favourite).
-* 🤔 I’m looking for help scalling out .NET core apps hosted on Azure Web App Services
 * 📫 You can contact me via [linked-in](www.linkedin.com/in/tony-karalis)
-* 😄 Pronouns: he/him
 * ⚡ Fun fact: I have never lived continuously in 1 country for longer than 8 years 😄
 
-## Some bits I learnt along the way:
+## Some bits I have learnt along the way:
 * Simplicity is key
 * Think twice, code once
 * Fundamentals matter, your Tech-stack doesn't
 * Make sure you are always learning
-* Spend most of your time outside of your comfort zone  
+* Spend most of your time outside of your comfort zone
 
 ## Some languages & tools I work or have worked with:
 * C#, C++, Javascript
