@@ -8,7 +8,7 @@ I love coding, when I am not coding I am thinking about coding. Some say I am ob
 
 ## Some bits about me:
 * 🌱 I'm constantly learning everyday.
-* 🚴 I'm crazy about mountain biking and enjoy hiking with my fiancée (The Lakes are our favourite).
+* 🚴 I enjoy working out, mountain biking and hiking.
 * 📫 You can contact me via [linked-in](www.linkedin.com/in/tony-karalis)
 * ⚡ Fun fact: I have never lived continuously in 1 country for longer than 8 years 😄
 
